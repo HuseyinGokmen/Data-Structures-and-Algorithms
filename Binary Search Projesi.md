@@ -14,5 +14,5 @@
             - 1’in solunda 0 var
     - 8’in solunda 7, sağında 9 var
     
-    ![Binary Search Tree](https://prnt.sc/lAABawghmG3H)
+    [Binary Search Tree](https://prnt.sc/lAABawghmG3H)
     
