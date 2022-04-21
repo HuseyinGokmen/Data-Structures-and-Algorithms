@@ -11,7 +11,7 @@
 
 —>
 
-![Merge Sort türüne göre aşamalar](https://prnt.sc/0vClcpRByUin)
+[Merge Sort türüne göre aşamalar](https://prnt.sc/0vClcpRByUin)
 
 —>
 
