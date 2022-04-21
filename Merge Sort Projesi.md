@@ -11,7 +11,7 @@
 
 —>
 
-![Untitled](Merge%20Sort%20Projesi%2098cdcb8640594a3880fbefbe5f76001b/Untitled.png)
+![Merge Sort türüne göre aşamalar](https://prnt.sc/0vClcpRByUin)
 
 —>
 
