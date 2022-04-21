@@ -14,4 +14,4 @@
             - 1’in solunda 0 var
     - 8’in solunda 7, sağında 9 var
     
-    ![Screenshot 2022-04-21 152213.png](Binary%20Search%20Projesi%206932505754e14d7390044459a5b823fc/Screenshot_2022-04-21_152213.png)
+    [Binary Search Tree](Binary%20Search%20Projesi%206932505754e14d7390044459a5b823fc/Screenshot_2022-04-21_152213.png)
